@@ -5,9 +5,6 @@
 1. [Description](#description)
 2. [Dependencies](#dependencies)
 3. [How to execute](#how-to-exec)
-    1. [Compile libraries](#compile-libraries)
-    2. [Compile applications](#compile-application)
-    3. [Compile unit test](#compile-unit-test)
 4. [Known issues](#known-issues)
     1. [Create temporary file](#create-temporary-file)
 
